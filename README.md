@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Valentin Lefebvre</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Je suis étudiant en BUT Informatique en alternance, où je travaille en tant que développeur full-stack. Mon envie constante d'apprentissage m'a ouvert les portes de l'informatique, une passion qui s'est immédiatement imposée. J'ai entamé mon apprentissage au lycée avec Python, et en parallèle, j'ai développé mes compétences sur diverses technologies.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=0valentin&label=Profile%20views&color=0e75b6&style=flat" alt="0valentin" /> </p>
 
