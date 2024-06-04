@@ -1,6 +1,13 @@
 <h1 align="center">Salut 👋,je m'appelle Valentin Lefebvre</h1>
 <h4 align="center">Je suis étudiant en BUT Informatique en alternance, où je travaille en tant que développeur full-stack. Mon envie constante d'apprentissage m'a ouvert les portes de l'informatique, une passion qui s'est immédiatement imposée. J'ai entamé mon apprentissage au lycée avec Python, et en parallèle, j'ai développé mes compétences sur diverses technologies.</h4>
 
+<h4 align="center"
+
+  Soft skill : Adaptable - Organiser - Engager 
+
+La gestion de projets est une expertise que je souhaite développer et qui me passionne, celle-ci nécessite de s'adapter à son équipe et son environnement se travaille. Elle intègre plusieurs notions qui sont à mon sens très intéressant, comme l'organisation qui est un point-clé lors d'un projet et au cours de tout met projet ou j'ai eu la chance d'être responsable de son organisation ,je me suis efforcer de lui en donner la plus optimiser possible et de m'ameliorer pour les projets futur.Je mets un point d'honneur a aller jusqu'au bout de se que j'entreprend si je commence un projet j'y mets de ma personne pour qu'il puissent aboutir.
+</h4>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=0valentin&label=Profile%20views&color=0e75b6&style=flat" alt="0valentin" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=0valentin" alt="0valentin" /></a> </p>
