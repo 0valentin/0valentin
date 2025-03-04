@@ -5,7 +5,9 @@
 
   Soft skill : Adaptable - Organiser - Engager 
 
-La gestion de projets est une expertise que je souhaite développer et qui me passionne, celle-ci nécessite de s'adapter à son équipe et son environnement de travaille. Elle intègre plusieurs notions qui sont à mon sens très intéressant, comme l'organisation qui est un point-clé lors d'un projet et au cours de tout met projet ou j'ai eu la chance d'être responsable de son organisation ,je me suis efforcer de lui en donner la plus optimiser possible et de m'ameliorer pour les projets futur.Je mets un point d'honneur a aller jusqu'au bout de se que j'entreprend si je commence un projet j'y mets de ma personne pour qu'il puissent aboutir.
+La gestion de projets est une expertise que je souhaite développer et qui me passionne. Celle-ci nécessite de s'adapter à son équipe et à son environnement de travail. Elle intègre plusieurs notions qui sont, à mon sens, très intéressantes, comme l'organisation, qui est un point clé lors d'un projet.  
+
+Au cours de tous mes projets où j'ai eu la chance d'être responsable de l'organisation, je me suis efforcé de l'optimiser au maximum et de m'améliorer pour les projets futurs. Je mets un point d'honneur à aller jusqu'au bout de ce que j'entreprends. Si je commence un projet, j'y mets de ma personne pour qu'il puisse aboutir.
 </h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=0valentin&label=Profile%20views&color=0e75b6&style=flat" alt="0valentin" /> </p>
